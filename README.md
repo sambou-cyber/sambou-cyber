@@ -7,7 +7,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/sambou-cyber/Vulnerability-Management-Program)**
 
+## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sambou-cyber/Threat-Hunting-Scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)**
 <hr/>
 
 ## 🤳 Connect With Me
