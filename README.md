@@ -9,7 +9,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sambou-cyber/Threat-Hunting-Scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sambou-cyber/Threat-Hunting-Scenario-tor/blob/main/README.md)**
 <hr/>
 
 ## 🤳 Connect With Me
