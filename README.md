@@ -6,10 +6,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/sambou-cyber/Vulnerability-Management-Program)**
+- [Windows 11 STIG Remediation and Automation (PowerShell)](https://github.com/sambou-cyber/Windows-11-STIG-Remediation-and-Automation-PowerShell-/blob/main/README.md)
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sambou-cyber/Threat-Hunting-Scenario-tor/blob/main/README.md)**
+**[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sambou-cyber/Threat-Hunting-Scenario-tor/blob/main/README.md)**
 <hr/>
 
 ## 🤳 Connect With Me
